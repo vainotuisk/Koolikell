@@ -1,2 +1,2 @@
 # Koolikell
-Koolikella frontend React + Apoolo
+Koolikella frontend React + Apollo
